@@ -6,4 +6,3 @@
 
 - 📫 Send me a message at **alonmlievski@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superduperalon&label=Profile%20views&color=0e75b6&style=flat" alt="superduperalon" /> </p>
