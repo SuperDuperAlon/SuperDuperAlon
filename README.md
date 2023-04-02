@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alon Mlievski</h1>
 <h3 align="center">I'm a Full Stack / Front End Developer from Tel Aviv</h3>
 
-- 📫 How to reach me **alonmlievski@gmail.com**
+📫 How to reach me **alonmlievski@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
