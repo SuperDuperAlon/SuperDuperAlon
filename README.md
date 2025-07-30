@@ -1,33 +1,28 @@
-<h1 align="center">Hi 👋, I'm Alon Mlievski</h1>
-<h3 align="center">I'm a Junior Full Stack / Front End Developer from Tel Aviv</h3>
-<h4 align="center">A marketing and a PR professional turned proogrammer, looking to learn from the best</h4>
+# Alon Mlievski
+
+Hi there! I’m Alon - a Software Developer who bridges code, data, and customer needs.  
+Welcome to my corner of GitHub, where I build web‑based tools that bring real value to people and teams.
+
+---
+
+## 🚀 About Me
+- **Full‑Stack Developer** with a hands‑on bootcamp background (JavaScript, React, Next.js, Node.js, MongoDB)  
+- **Product‑Driven**: I love taking ideas from zero to MVP - designing wireframes, writing PRDs, and shipping features  
+- **Hybrid Mindset**: Managed publisher accounts in AdTech before pivoting into code. Can talk “business” and “dev” 
+
+---
+
+## 🛠️ Core Skills
+- **Frontend:** React, Next.js, Redux, Zod, HTML, CSS, Tailwind CSS  
+- **Backend:** Node.js, Express, REST APIs, JWT 
+- **Databases:** MongoDB, Appwrite, basic SQL  
+- **Tools & Workflows:** Git, Postman
+
+---
+
+## 🤝 Let’s Connect
+- ✉️ Email: alonmlievski@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/alon-mlievski-6756aa74
 
 
-<p align="center">📫 Reach me at <b>alonmlievski@gmail.com</b> </p>
-
-<br />
-<br />
-
-<h3 align="center">My stack</h3>
-
-<h4 align="center">Front</h4>
-
-  <p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<h4 align="center">Back</h4>
-  <p align="center"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a></p>
-
-
-  
-<h4 align="center">Misc.</h4>
-  <p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
-  </p>
-
-<p align="center"> 
-
-
-
-  
-
+Feel free to explore my repos, drop me an issue or a PR, or just say hi! 😊  
